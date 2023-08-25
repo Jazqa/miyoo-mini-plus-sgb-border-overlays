@@ -3,6 +3,6 @@ A python script designed to download a bunch of 256x224 PNGs from a given URL, m
 
 ## Usage:
   1. Have Python installed
-  2. Install requests, bs4 and PIL via PyPI
+  2. Install requests, bs4 and Pillow via PyPI
   3. Add URL to main.py
   4. Run main.py
