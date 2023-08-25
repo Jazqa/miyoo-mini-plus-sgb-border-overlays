@@ -4,4 +4,5 @@ A python script designed to download a bunch of PNGs from a given URL, manipulat
 ## Usage:
   1. Have Python installed
   2. Install requests, bs4 and PIL via PyPI
-  3. Run main.py
+  3. Add URL to main.py
+  4. Run main.py
